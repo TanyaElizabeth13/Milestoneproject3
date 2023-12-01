@@ -49,9 +49,9 @@ Index page
 
 ![wireframephone](../docs/imgs/indexwireframe1.png)
 
-![wireframepad] (../docs/imgs/indexwireframe2.png)
+![wireframepad](../docs/imgs/indexwireframe2.png)
 
-![wireframedesktop] (../docs/imgs/indexwireframe3.png)
+![wireframedesktop](../docs/imgs/indexwireframe3.png)
 
 Colourscheme
 
